@@ -14,7 +14,8 @@
 const lucas = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux Toolkit, NextJS, Node, Express, PostgreSQL, Sequelize, Jest, MongoDB, Mongoose, TailwindCSS, JWT (JSON Web Token), Auth0, MercadoPago],
+  tools: [React, Redux Toolkit, NextJS, Node, Express, PostgreSQL, Sequelize, Jest, MongoDB, Mongoose,
+  TailwindCSS, JWT (JSON Web Token), Auth0, MercadoPago],
  challenge: "I'm searching my firt IT job while I'm making my e-portfolio"
 }
 ```
