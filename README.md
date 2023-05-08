@@ -3,7 +3,6 @@
 <p><em>Fullstack Developer
 </em></p>
 
-[![Twitter: lucasregner23](https://img.shields.io/twitter/follow/lucasregner23?style=social)](https://twitter.com/lucasregner23)
 [![Linkedin: lucas-regner/](https://img.shields.io/badge/-lucasregner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-regner/)](https://www.linkedin.com/in/lucas-regner/)
 [![GitHub LucasRegner1](https://img.shields.io/github/followers/lucasregner1?label=follow&style=social)](https://github.com/lucasregner1)
 
