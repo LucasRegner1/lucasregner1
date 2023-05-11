@@ -67,9 +67,9 @@ const lucas = {
   </tr>
     </td>
   <tr align="center">
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#">
-        <img src="[./img/nextjs.svg](https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg)" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" width="48" height="48" alt="VScode" />
       </a>
       <br>NextJS
     </td>
