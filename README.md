@@ -60,16 +60,16 @@ const lucas = {
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="48" height="48" alt="npm" />
       </a>
-      <br>npm
+      <br>FireBase
     </td>
   </tr>
     </td>
   <tr align="center">
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="Git" />
+        <img src="[./img/nextjs.svg](https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg)" width="48" height="48" alt="Git" />
       </a>
       <br>NextJS
     </td>
@@ -99,16 +99,10 @@ const lucas = {
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="Postgresql" />
       </a>
-      <br>Postgresql
+      <br>Typescript
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td> -->
     <td align="center"  width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" width="48" height="48" alt="Github" />
