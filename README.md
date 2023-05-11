@@ -12,7 +12,7 @@
 ```javascript
 const lucas = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux Toolkit, NextJS, Node, Express, PostgreSQL, Sequelize, Jest, MongoDB, Mongoose, TailwindCSS, 
   JWT (JSON Web Token), i18next, Auth0, MercadoPago],
  challenge: "I'm searching my firt IT job while I'm making my e-portfolio"
@@ -124,14 +124,16 @@ const lucas = {
 - Orientación a resultados
 - Generación de ideas
 
-<br>
 
+<br>
+<!-- 
 ### 📈 ESTADISTICAS DE GITHUB
 <hr/>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=melinaarmandpilon&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaarmandpilon&layout=compact&theme=buefy)](https://github.com/melinaarmandpilon/github-readme-stats)
 
 <br>
+This content will not appear in the rendered Markdown -->
 
 ## 💰 Donate: Invite me a coffe!
 [![Cafecito](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/lucasregnerdev) 
