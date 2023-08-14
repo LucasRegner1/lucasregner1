@@ -133,9 +133,3 @@ const lucas = {
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=melinaarmandpilon&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaarmandpilon&layout=compact&theme=buefy)](https://github.com/melinaarmandpilon/github-readme-stats)
 
 <br>
-This content will not appear in the rendered Markdown -->
-
-## 💰 Donate: Invite me a coffe!
-[![Cafecito](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/lucasregnerdev) 
-
----
