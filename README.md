@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lucas Regner! <img src="https://media.giphy.com/media/NDqBIAjtA1Z72/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
-<p><em>Fullstack Developer
+<p><em>Backend Developer
 </em></p>
 
 [![Linkedin: lucas-regner/](https://img.shields.io/badge/-lucasregner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-regner/)](https://www.linkedin.com/in/lucas-regner/)
