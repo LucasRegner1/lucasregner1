@@ -14,8 +14,7 @@ const lucas = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux Toolkit, NextJS, Node, Express, PostgreSQL, Sequelize, Jest, MongoDB, Mongoose, TailwindCSS, 
-  JWT (JSON Web Token), i18next, Auth0, MercadoPago],
- challenge: "I'm searching my firt IT job while I'm making my e-portfolio"
+  JWT (JSON Web Token), i18next, Auth0, MercadoPago]
 }
 ```
 ### 💻 HABILIDADES TECNICAS
