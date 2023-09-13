@@ -12,9 +12,9 @@
 ```javascript
 const lucas = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux Toolkit, NextJS, Node, Express, PostgreSQL, Sequelize, Jest, MongoDB, Mongoose, TailwindCSS, 
-  JWT (JSON Web Token), i18next, Auth0, MercadoPago]
+  code: [Typescript, Javascript, HTML, CSS],
+  tools: [Express, TRPC, Drizzle-orm, Redis, PostgreSQL, Sequelize, NextJS, MongoDB, Mongoose, React, Redux Toolkit, Jest, TailwindCSS, 
+  JWT (JSON Web Token), Auth0, MercadoPago]
 }
 ```
 ### 💻 HABILIDADES TECNICAS
