@@ -13,8 +13,8 @@
 const lucas = {
   pronouns: "he" | "him",
   code: [Typescript, Javascript, HTML, CSS],
-  tools: [Express, TRPC, Drizzle-orm, Redis, PostgreSQL, Sequelize, NextJS, MongoDB, Mongoose, React, Redux Toolkit, Jest, TailwindCSS, 
-  JWT (JSON Web Token), Auth0, MercadoPago]
+  tools: [Express, TRPC, Drizzle-orm, Redis, PostgreSQL, Sequelize, NextJS, MongoDB, Mongoose, React, Redux Toolkit, Jest,
+  TailwindCSS, JWT (JSON Web Token), Auth0, MercadoPago]
 }
 ```
 ### 💻 HABILIDADES TECNICAS
